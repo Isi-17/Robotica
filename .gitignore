@@ -1,5 +1,0 @@
-# Jupyter Notebook files
-*.ipynb
-
-# Ignore checkpoint folders created by Jupyter
-.ipynb_checkpoints/
